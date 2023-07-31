@@ -1,4 +1,9 @@
 # odin-recipes
+
+Preview: https://bogdanncalin.github.io/odin-recipes/
+
+To do: needs to be updated
+
 Hello everyone!
 
 This is the first attempt of building a website inside the Odin Project web development course.
